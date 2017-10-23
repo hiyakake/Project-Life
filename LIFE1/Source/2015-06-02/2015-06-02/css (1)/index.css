@@ -1,0 +1,122 @@
+.version.index /* version checker */
+{
+	color: #0000E9;
+	background-color: #352F97;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/confectionary_1.gif") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 649px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -87px;
+	padding-bottom: 26px;
+	width: 0.01px;
+}
+
+#u4186
+{
+	z-index: 10;
+	width: 50px;
+	min-height: 50px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 390px;
+	position: relative;
+}
+
+#u4188
+{
+	z-index: 11;
+	width: 380px;
+	background-color: transparent;
+	margin-left: 23px;
+	margin-top: 74px;
+	position: relative;
+}
+
+#pu4182
+{
+	width: 0.01px;
+	margin-left: 23px;
+	margin-top: -5px;
+}
+
+#u4182
+{
+	z-index: 2;
+	width: 380px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4185-6
+{
+	z-index: 4;
+	width: 335px;
+	min-height: 43px;
+	-pie-box-shadow: 6px 6px 0px #7F7F7F;
+	box-shadow: 6px 6px 0px rgba(0,0,0,0.5);
+	border-width: 7px;
+	border-style: solid;
+	border-color: #F7931E;
+	background-color: #F7931E;
+	color: #FFFFFF;
+	font-size: 23px;
+	text-align: center;
+	line-height: 40px;
+	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 354px;
+	left: 15px;
+}
+
+#u4185-2,#u4185-4
+{
+	padding-top: 3px;
+}
+
+#u4194
+{
+	z-index: 13;
+	width: 513px;
+	min-height: 286px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 121px;
+	left: 404px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
