@@ -1,0 +1,93 @@
+@charset "utf-8";
+
+#mail-window {
+	border-style: solid;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: hsla(0,0%,100%,1.00);
+	clear: both;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+#mail-time {
+	background-color: #000000;
+	color: #FFFFFF;
+	display: block;
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 12px;
+}
+
+#mail-scroll {
+	overflow-y: scroll;
+	max-height: 450px;
+	overflow-x: hidden;
+}
+
+#mail-title {
+	background-color: #14AF6E;
+	color: #FFFFFF;
+	text-align: left;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	font-size: 26px;
+}
+
+#mail-scroll table {
+	background-color: #1F94B8;
+	color: #FFFFFF;
+	display: block;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	-webkit-box-shadow: inset 0px 0px 10px 0px #000000;
+	box-shadow: inset 0px 0px 10px 0px #000000;
+	font-size: 15px;
+	text-align: justify;
+}
+#mail-main  {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	line-height: 30px;
+}
+
+#mail-main p a {
+	color: #1F94B8;
+}
+#mail-main p a:hover  {
+	color: #FFFFFF;
+	background-color: #1F94B8;
+	text-decoration: none;
+}
+
+.asaid {
+	padding-top: 18px;
+	padding-right: 18px;
+	padding-bottom: 18px;
+	padding-left: 18px;
+	border: 2px dotted #1F94B8;
+	overflow-x: hidden;
+}
+
+#close-bottom {
+	display: block;
+	background-color: #1F94B8;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 25px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-decoration: none;
+}

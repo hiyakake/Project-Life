@@ -1,0 +1,87 @@
+#Browser-window {
+	max-width: 350px;
+	border-style: solid;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+#android-time {
+	background-color: hsla(0,0%,0%,1.00);
+	color: hsla(0,0%,100%,1.00);
+	text-align: center;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	font-size: 12px;
+}
+
+#Browser-top {
+	background-color: hsla(0,0%,91%,1.00);
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+#Browser-top #Browser-url {
+	display: inline-block;
+	width: 82%;
+	background-color: hsla(0,0%,100%,1.00);
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	color: hsla(345,88%,41%,1.00);
+	overflow-x: hidden;
+	white-space: nowrap;
+	margin-right: 1%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	border-radius: 5px;
+}
+
+#Browser-top #Browser-manu {
+	display: inline-block;
+	width: 9%;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	font-size: 25px;
+	overflow-x: hidden;
+}
+
+#Browser-writing-area {
+	height: 550px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+#Browser-window ul   {
+	background-color: hsla(0,0%,0%,1.00);
+	color: hsla(0,0%,100%,1.00);
+	display: flex;
+	justify-content: space-between;
+	list-style-type: none;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#Browser-window ul li   {
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}

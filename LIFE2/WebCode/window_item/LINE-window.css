@@ -1,0 +1,134 @@
+@charset "utf-8";
+
+
+.line-window {
+	background-color: rgba(189,204,209,1.00);
+	border-left-style: solid;
+	border-right-style: solid;
+	max-width: 330px;
+	min-height: 530px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	padding-top: 0px;
+	margin-top: 60px;
+}
+
+#time {
+	background-color: rgba(0,0,0,1.00);
+	color: rgba(255,255,255,1.00);
+	display: block;
+	text-align: center;
+	font-size: 10pt;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+#title-Area {
+	background-color: rgba(255,255,255,1.00);
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 10px;
+}
+
+#back-bottom {
+	color: rgba(37,176,193,1.00);
+	font-size: 18pt;
+	text-align: left;
+}
+
+#taliRoom-Name {
+	display: inline;
+	padding-left: 15px;
+}
+
+#talkArea {
+	overflow-y: scroll;
+	height: 430px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+.you {
+	background-color: rgba(255,255,255,1.00);
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 15px;
+	padding-right: 15px;
+	border-radius: 15px;
+	max-width: 177px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-shadow: 0px 0px;
+	display: table;
+	float: left;
+	clear: both;
+}
+.my {
+	background-color: rgba(35,215,27,1.00);
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 15px;
+	padding-right: 15px;
+	border-radius: 15px;
+	max-width: 177px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-shadow: 0px 0px;
+	display: table;
+	float: right;
+	clear: both;
+	margin-right: 15px;
+}
+.my-img  {
+	border-radius: 15px;
+	max-width: 200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-shadow: 0px 0px;
+	display: table;
+	float: right;
+	clear: both;
+	margin-right: 15px;
+	background-color: rgba(255,255,255,1.00);
+}
+
+#send-box {
+	clear: both;
+	background-color: rgba(255,255,255,1.00);
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: right;
+}
+
+#send-bottom {
+	background-color: rgba(40,160,197,1.00);
+	color: rgba(255,255,255,1.00);
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 15pt;
+}
+table {
+	background-color: rgba(0,0,0,1.00);
+	display: block;
+}
+
+td {
+	color: rgba(255,249,249,1.00);
+	padding-left: 43px;
+	padding-right: 43px;
+	font-size: 14pt;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}

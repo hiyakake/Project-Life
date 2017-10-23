@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+
+#http-shopping {
+	min-width: 300px;
+	max-width: 400px;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	border-style: solid;
+}
+
+#header #site-name {
+	background-color: hsla(188,74%,40%,1.00);
+	color: hsla(0,0%,100%,1.00);
+	text-align: left;
+	font-size: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#header #page-title {
+	border-bottom-color: hsla(188,74%,40%,1.00);
+	border-bottom-style: solid;
+	text-align: center;
+	font-size: 25px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: hsla(188,74%,40%,1.00);
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+#http-shopping #scroll {
+	padding-left: 20px;
+	padding-right: 20px;
+	overflow-y: scroll;
+	height: 600px;
+}
+
+#scroll section {
+	border-style: solid;
+	border-color: hsla(188,74%,40%,1.00);
+	margin-top: 30px;
+}
+
+#scroll section .menu-title {
+	background-color: hsla(188,74%,40%,1.00);
+	display: block;
+	text-align: left;
+	padding-left: 20px;
+	color: hsla(0,0%,100%,1.00);
+	font-size: 20px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.section-main {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	clear: both;
+}
+
+#cart img {
+	max-width: 35%;
+	float: left;
+}
+
+#cart #game-name {
+	text-decoration: underline;
+}
+
+#cart #game-yen {
+}
