@@ -1,0 +1,366 @@
+.version._821 /* version checker */
+{
+	color: #0000F0;
+	background-color: #605D0E;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background: #FFFFFF url("../../images/confectionary_1.gif") repeat left top fixed;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#page_position_content
+{
+	width: 0.01px;
+}
+
+#u1942-4
+{
+	z-index: 50;
+	min-height: 84px;
+	background-color: #00ADA5;
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	color: #FFFFFF;
+	font-size: 22px;
+	text-align: center;
+	line-height: 39px;
+	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
+	font-weight: bold;
+}
+
+#u1942-2
+{
+	padding-top: 24px;
+}
+
+#u1942-4-bw
+{
+	z-index: 50;
+	min-height: 84px;
+}
+
+#pu1928-4
+{
+	width: 0.01px;
+	margin-left: 21px;
+	margin-top: 44px;
+}
+
+#u1928-4
+{
+	z-index: 9;
+	width: 131px;
+	min-height: 20px;
+	-pie-box-shadow: 0px 0px 2px 1px #BFBFBF;
+	box-shadow: 0px 0px 2px rgba(127,127,127,0.5),0px 0px 2px rgba(127,127,127,0.5);
+	border-width: 15px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	border-radius: 1px;
+	color: #7F7F7F;
+	font-size: 16px;
+	line-height: 28px;
+	font-family: Osaka－等幅, Osaka-mono, ＭＳ ゴシック, MS Gothic, monospace;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 24px;
+}
+
+#u1936
+{
+	z-index: 48;
+	width: 45px;
+	height: 45px;
+	background-color: #00ADA5;
+	border-radius: 100px 100px 0px 100px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1937
+{
+	z-index: 71;
+	display: block;
+	vertical-align: top;
+	left: -6px;
+	margin-top: 63px;
+	position: relative;
+}
+
+#u1932-4
+{
+	z-index: 13;
+	min-height: 52px;
+	-pie-box-shadow: 0px 0px 2px 1px #BFBFBF;
+	box-shadow: 0px 0px 2px rgba(127,127,127,0.5),0px 0px 2px rgba(127,127,127,0.5);
+	border-width: 15px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	border-radius: 1px;
+	color: #7F7F7F;
+	font-size: 16px;
+	line-height: 28px;
+	font-family: Osaka－等幅, Osaka-mono, ＭＳ ゴシック, MS Gothic, monospace;
+}
+
+#u1932-4-bw
+{
+	z-index: 13;
+	min-height: 52px;
+	margin-top: -6px;
+	margin-bottom: -6px;
+}
+
+#untitled
+{
+	left: -37px;
+	position: relative;
+}
+
+#pu1930-6
+{
+	width: 0.01px;
+	margin-left: 24px;
+	margin-top: 32px;
+}
+
+#u1930-6
+{
+	z-index: 63;
+	width: 257px;
+	min-height: 52px;
+	-pie-box-shadow: 0px 0px 2px 1px #BFBFBF;
+	box-shadow: 0px 0px 2px rgba(127,127,127,0.5),0px 0px 2px rgba(127,127,127,0.5);
+	border-width: 15px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	border-radius: 1px;
+	color: #7F7F7F;
+	font-size: 16px;
+	line-height: 28px;
+	font-family: Osaka－等幅, Osaka-mono, ＭＳ ゴシック, MS Gothic, monospace;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 29px;
+}
+
+#u1939
+{
+	z-index: 70;
+	width: 45px;
+	height: 45px;
+	background-color: #00ADA5;
+	border-radius: 100px 100px 0px 100px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu1931-6
+{
+	width: 0.01px;
+	margin-left: 44px;
+	margin-top: 51px;
+}
+
+#u1931-6
+{
+	z-index: 17;
+	width: 256px;
+	min-height: 21px;
+	-pie-box-shadow: 0px 0px 2px 1px #BFBFBF;
+	box-shadow: 0px 0px 2px rgba(127,127,127,0.5),0px 0px 2px rgba(127,127,127,0.5);
+	border-width: 15px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	border-radius: 1px;
+	color: #7F7F7F;
+	font-size: 16px;
+	line-height: 28px;
+	font-family: Osaka－等幅, Osaka-mono, ＭＳ ゴシック, MS Gothic, monospace;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+}
+
+#u1940
+{
+	z-index: 49;
+	width: 45px;
+	height: 45px;
+	background-color: #D9E021;
+	border-radius: 100px 100px 100px 0px ;
+	position: relative;
+	margin-right: -10000px;
+	left: 263px;
+}
+
+#pu1933-4
+{
+	width: 0.01px;
+	margin-left: 24px;
+	margin-top: 48px;
+}
+
+#u1933-4
+{
+	z-index: 59;
+	width: 186px;
+	min-height: 23px;
+	-pie-box-shadow: 0px 0px 2px 1px #BFBFBF;
+	box-shadow: 0px 0px 2px rgba(127,127,127,0.5),0px 0px 2px rgba(127,127,127,0.5);
+	border-width: 15px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	border-radius: 1px;
+	color: #7F7F7F;
+	font-size: 16px;
+	line-height: 28px;
+	font-family: Osaka－等幅, Osaka-mono, ＭＳ ゴシック, MS Gothic, monospace;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 26px;
+	left: 29px;
+}
+
+#u1935
+{
+	z-index: 69;
+	width: 45px;
+	height: 45px;
+	background-color: #00ADA5;
+	border-radius: 100px 100px 0px 100px ;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1934-25
+{
+	z-index: 23;
+	width: 285px;
+	min-height: 488px;
+	-pie-box-shadow: 6px 6px 0px #7F7F7F;
+	box-shadow: 6px 6px 0px rgba(0,0,0,0.5);
+	border-width: 15px;
+	border-style: solid;
+	border-color: #3FFFE4;
+	background-color: #3FFFE4;
+	border-radius: 1px;
+	color: #7F7F7F;
+	font-size: 16px;
+	line-height: 28px;
+	font-family: Osaka－等幅, Osaka-mono, ＭＳ ゴシック, MS Gothic, monospace;
+	margin-left: 29px;
+	margin-top: 74px;
+	position: relative;
+}
+
+#pu734
+{
+	width: 0.01px;
+	margin-top: 31px;
+}
+
+#u734
+{
+	z-index: 2;
+	height: 101px;
+}
+
+#u734-bw
+{
+	z-index: 2;
+	margin-top: 28px;
+	height: 101px;
+}
+
+#u741-6
+{
+	z-index: 3;
+	width: 221px;
+	min-height: 34px;
+	margin-right: -10000px;
+	margin-top: 68px;
+	left: 22px;
+}
+
+#u1941-4
+{
+	z-index: 54;
+	width: 64px;
+	min-height: 64px;
+	-pie-box-shadow: 3px 4px 9px #7F7F7F;
+	box-shadow: 3px 4px 9px rgba(0,0,0,0.5);
+	background-color: #00ADA5;
+	border-radius: 100px;
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
+	line-height: 53px;
+	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	left: 294px;
+}
+
+#u1941-2
+{
+	padding-top: 7px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,33 @@
+#u734
+{
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #00ADA5;
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	border-width: 8px 0px 0px;
+}
+
+#u741-6
+{
+	background-color: transparent;
+	color: #F5FFFA;
+	font-size: 20px;
+	line-height: 35px;
+	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
+	font-weight: bold;
+	position: relative;
+}
+
+#u741-2
+{
+	color: #56A2C4;
+}
+
+#u741-3
+{
+	color: #56A2C4;
+	font-family: Courier New, Courier, monospace;
+}
+

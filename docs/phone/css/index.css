@@ -1,0 +1,160 @@
+.version.index /* version checker */
+{
+	color: #0000F2;
+	background-color: #EBE093;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #00ABA1;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 846px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#page_position_content
+{
+	margin-top: -72px;
+	width: 0.01px;
+}
+
+#u3565
+{
+	z-index: 9;
+	width: 50px;
+	min-height: 50px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 28px;
+	position: relative;
+}
+
+#u3545
+{
+	z-index: 4;
+	min-height: 100px;
+	background-color: #98DBFC;
+}
+
+#u3577
+{
+	z-index: 10;
+	width: 380px;
+	background-color: transparent;
+	margin-bottom: -5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 42px;
+}
+
+#u3545-bw
+{
+	z-index: 4;
+	min-height: 100px;
+	margin-top: 22px;
+}
+
+#pu3547
+{
+	width: 0.01px;
+	margin-top: -1px;
+}
+
+#u3547
+{
+	z-index: 2;
+	width: 380px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3554-4
+{
+	z-index: 5;
+	width: 248px;
+	min-height: 43px;
+	-pie-box-shadow: 6px 6px 0px #7F7F7F;
+	box-shadow: 6px 6px 0px rgba(0,0,0,0.5);
+	border-width: 7px;
+	border-style: solid;
+	border-color: #F7931E;
+	background-color: #F7931E;
+	color: #FFFFFF;
+	font-size: 23px;
+	text-align: center;
+	line-height: 40px;
+	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 341px;
+	left: 62px;
+}
+
+#u3554-2
+{
+	padding-top: 3px;
+}
+
+#u3857
+{
+	z-index: 12;
+	min-height: 213px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u3857-bw
+{
+	z-index: 12;
+	min-height: 213px;
+	margin-top: 6px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

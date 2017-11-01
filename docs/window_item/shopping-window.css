@@ -1,0 +1,150 @@
+@charset "utf-8";
+
+#shopping-window {
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: solid;
+	border-color: #1294CB;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	clear: both;
+	background-color: hsla(0,0%,100%,1.00);
+}
+
+#shop-header {
+	background-color: #1294CB;
+	padding-bottom: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 0px;
+}
+
+#shop-title {
+	color: #FFFFFF;
+	font-family: "Comic Sans MS", cursive;
+	text-align: left;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 10px;
+	font-size: 35px;
+	padding-bottom: 10px;
+}
+
+#search-area {
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	font-size: 16px;
+}
+
+#search-area #search-box {
+	display: inline-block;
+	padding-left: 15px;
+}
+
+#search-area #search-icon {
+	background-color: #0A5879;
+	color: #FFFFFF;
+	display: inline-block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	left: 53%;
+	position: relative;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+#shop-main {
+	max-height: 550px;
+	overflow-y: scroll;
+}
+
+#shop-result {
+	background-color: #0A5879;
+	color: #FFFFFF;
+	display: block;
+	text-align: left;
+	padding-left: 15px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+#shop-main ul  {
+	margin-left: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+#shop-main ul li {
+	list-style-type: none;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-bottom: 1px solid hsla(0,0%,50%,1.00);
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#shop-main ul li h3 {
+	font-size: 18px;
+}
+
+#shop-main ul li h3 .shop-official {
+	margin-left: 10px;
+	color: hsla(114,90%,41%,1.00);
+	text-shadow: 5px 5px 2px hsla(0,0%,80%,1.00);
+	font-size: 15px;
+}
+
+#shop-main ul li .Comment {
+	font-size: 14px;
+	color: hsla(0,0%,42%,1.00);
+}
+
+#shop-main ul li .shop-cart {
+	display: inline-block;
+	font-size: 18px;
+	text-align: center;
+	background-color: hsla(37,98%,47%,1.00);
+	color: hsla(0,0%,100%,1.00);
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 5px;
+}
+
+#shop-main ul li .shop-cart:hover {
+	background-color: hsla(37,99%,34%,1.00);
+}
+
+#shop-main ul li .yen {
+	color: hsla(359,100%,40%,1.00);
+	font-style: oblique;
+	font-size: 18px;
+	text-align: center;
+	display: inline-block;
+	margin-left: 18px;
+}
+ul li .yen:before {
+	content: "￥";
+}
+
+#press {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-color: hsla(0,0%,0%,1.00);
+	color: hsla(0,0%,100%,1.00);
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
